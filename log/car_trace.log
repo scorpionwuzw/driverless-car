@@ -1,0 +1,45 @@
+15:39:03.875 [main] INFO  Application - application start
+15:47:58.951 [main] INFO  Application - application start
+21:36:05.358 [main] INFO  util.Utils - class Utils, method readLine, can not find file
+21:43:45.429 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+21:43:45.445 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:43:45.445 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:43:45.445 [main] INFO  s.impl.DriverlessCarServiceImpl - driverless car's current position. positionX: 5; positionY: 2; orientation: EAST
+21:44:51.069 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+21:44:51.085 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:44:51.085 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:44:51.085 [main] INFO  s.impl.DriverlessCarServiceImpl - driverless car's current position. positionX: 5; positionY: 2; orientation: EAST
+21:45:08.113 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+21:45:08.113 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:45:08.129 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:45:08.129 [main] INFO  s.impl.DriverlessCarServiceImpl - driverless car's current position. positionX: 1; positionY: 6; orientation: NORTH
+21:45:56.374 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+21:45:56.390 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:45:56.390 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:45:56.390 [main] INFO  s.impl.DriverlessCarServiceImpl - driverless car's current position. positionX: 5; positionY: 2; orientation: EAST
+21:46:22.548 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+21:46:22.548 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:46:22.563 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:46:22.563 [main] ERROR Application - car is going to drive out of the car park
+21:47:11.499 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+21:47:11.499 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:47:11.499 [main] INFO  s.impl.DriverlessCarServiceImpl - driverless car's current position. positionX: 1; positionY: -2; orientation: SOUTH
+21:47:11.499 [main] INFO  init.InitOperations - driverless car's car park. length: 10; width: 10
+21:47:11.515 [main] ERROR Application - car is going to drive out of the car park
+21:49:44.457 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+21:49:44.472 [main] INFO  Application - driverless car's car park. length: 10; width: 10
+21:49:44.472 [main] INFO  s.impl.DriverlessCarServiceImpl - driverless car's current position. positionX: 1; positionY: -2; orientation: SOUTH
+21:49:44.472 [main] ERROR Application - car is going to drive out of the car park
+22:33:28.938 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+22:33:28.954 [main] INFO  Application - driverless car's car park. length: 10; width: 10
+22:33:28.954 [main] INFO  s.impl.DriverlessCarServiceImpl - driverless car's current position. positionX: 1; positionY: -2; orientation: SOUTH
+22:33:28.954 [main] ERROR Application - car is going to drive out of the car park
+22:33:57.074 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+22:33:57.090 [main] INFO  Application - driverless car's car park. length: 10; width: 10
+22:33:57.090 [main] INFO  s.impl.DriverlessCarServiceImpl - driverless car's current position. positionX: 1; positionY: 6; orientation: NORTH
+22:34:37.479 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+22:34:37.479 [main] INFO  Application - driverless car's car park. length: 10; width: 10
+22:34:37.479 [main] INFO  s.impl.DriverlessCarServiceImpl - After moved, the driverless car's position. positionX: 1; positionY: 6; orientation: NORTH
+22:35:13.049 [main] INFO  init.InitOperations - driverless car's current position. positionX: 1; positionY: 2; orientation: EAST
+22:35:13.049 [main] INFO  Application - driverless car's car park size. length: 10; width: 10
+22:35:13.064 [main] INFO  s.impl.DriverlessCarServiceImpl - After moved, the driverless car's position. positionX: 1; positionY: 6; orientation: NORTH
