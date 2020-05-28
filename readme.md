@@ -19,3 +19,7 @@ We can use the coordinates to mark the rectangle and the car as good as a math p
 What you need to do is set the steps and the orientation the car will move using variable steps and orientation in main method, Application.class, then run the Application.class. 
 When the application is finished it will print message on console and write message in log file. 
 The steps and orientation which the car will move are configurable. Also the car park size and the car start position can be configurable in files
+
+### **things to do**
+For more complex task, I will consider to use some framework like springboot and spring, even some middleware like database if necessary
+to keep reliability and extensibility for the system 
